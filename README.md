@@ -1,98 +1,198 @@
-# 👋 Hi, I'm Yash Soni
 
-### 🚀 First-Year B.Tech Student | AI/ML Enthusiast | Web Developer
+<div align="center">
 
-I'm a passionate Computer Science student exploring the world of technology through programming, web development, and problem-solving.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yash%20Soni&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" />
 
-* 🌱 Currently learning **JavaScript, Python, AI/ML, and Modern Web Development**
-* 💻 Building projects with **HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap**
-* 🏆 Actively participating in **Hackathons**, including **Smart India Hackathon (SIH)** and other innovation challenges
-* 🔧 Continuously improving my development skills through hands-on projects
-* 🎯 Focused on becoming a skilled Software Engineer and contributing to impactful tech solutions
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;Web+Developer+in+Progress;JavaScript+Enthusiast;Learning+React+%26+Backend" />
+
+<br/>
+
+![Status](https://img.shields.io/badge/Status-Looking%20for%20Internship-6D28D9?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-JavaScript%20%26%20React-4F46E5?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-7C3AED?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge)
+
+<a href="https://www.linkedin.com/in/yash-soni-487a9136b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yashsoni07.1212@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yashsoni07-gith">
+<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Yashsoni07-gith&style=for-the-badge&color=7C3AED)
+
+![](https://img.shields.io/github/followers/Yashsoni07-gith?style=for-the-badge&color=4F46E5)
+
+![](https://img.shields.io/github/stars/Yashsoni07-gith?style=for-the-badge&color=A855F7)
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# About
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yash-soni-487a9136b)
+A passionate guy learning web dev right now. Focused on mastering frontend development with JavaScript and React, with plans to expand into backend technologies. Building projects to strengthen core web development skills and preparing for frontend developer internships.
 
-📧 **Email:** [yashsoni07.1212@gmail.com](mailto:yashsoni07.1212@gmail.com)
+### Current Goals
+
+- Master JavaScript fundamentals & advanced concepts
+- Build production-ready React applications
+- Create responsive and accessible web interfaces
+- Learn backend technologies (Node.js, databases)
+- Land a frontend developer internship
+
+### Open To
+
+- Frontend Developer Internships
+- Web Development Collaborations
+- Open Source Contributions
+- Learning Opportunities
 
 ---
 
-## 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
+</p>
 
-### Frontend Development
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
 
-### Tools & Platforms
+### Tools & Version Control
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-
----
-
-## 🏆 Achievements
-
-* 🥇 Active participant in **Smart India Hackathon (SIH)** and other hackathons
-* 📜 Certified in **Git & GitHub**
-* 🚀 Consistently building projects to strengthen development skills
-* 📚 Dedicated to learning and applying modern technologies
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+# Certifications
 
-* JavaScript
-* Python
-* AI & Machine Learning
-* Data Structures & Algorithms
-* Responsive Web Development
-* Git & Open Source Workflow
+<div align="center">
 
----
+![Git & GitHub](https://img.shields.io/badge/Simplilearn-Git%20%26%20GitHub-FF6B6B?style=for-the-badge)
 
-## 🚀 Featured Projects
-
-### Innovation OS
-
-A modern frontend platform focused on solving innovation and product development challenges.
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-🔗 Repository: https://github.com/Yashsoni07-gith/Innovation-OS
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# Coding Profiles
 
-![](https://github-readme-stats.vercel.app/api?username=Yashsoni07-gith\&theme=tokyonight\&hide_border=true\&show_icons=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashsoni07-gith\&theme=tokyonight\&hide_border=true)
+<a href="https://www.hackerrank.com/profile/yashsoni07_1212">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsoni07-gith\&layout=compact\&theme=tokyonight\&hide_border=true)
+<a href="https://leetcode.com/u/_yashsoni07_">
+<img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode"/>
+</a>
 
----
-
-## 🎯 2026 Goals
-
-* Build impactful AI/ML projects
-* Strengthen Data Structures & Algorithms
-* Contribute to Open Source
-* Participate in more Hackathons
-* Grow as a Full-Stack Developer
-* Create projects that solve real-world problems
+</div>
 
 ---
 
-⭐ *"Learning, Building, and Improving Every Day."*
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| Hackathon Participant | Active in coding competitions |
+| Problem Solver | Regular practice on LeetCode & HackerRank |
+| Continuous Learner | Building skills in web development |
+| GitHub Contributor | Active in version control and coding |
+
+</div>
+
+---
+
+# Current Learning Path
+
+```yaml
+Phase_1_Frontend_Mastery:
+  - JavaScript ES6+ Advanced Concepts
+  - React Fundamentals & Hooks
+  - State Management
+  - Responsive Design
+  - Component Architecture
+  
+Phase_2_Backend_Foundation:
+  - Node.js Basics
+  - Express.js Framework
+  - Databases (MongoDB/MySQL)
+  - API Development
+  
+Current_Focus:
+  - JavaScript Mastery
+  - React Learning
+  - Building Small Projects
+  
+Target:
+  - Frontend Developer Internship
+  - Full-Stack Developer (Long-term)
+```
+
+---
+
+# Skills Summary
+
+| Category | Skills |
+|----------|--------|
+| Languages | JavaScript, HTML, CSS, C++ |
+| Frontend | HTML5, CSS3, Tailwind CSS, Bootstrap |
+| Tools | Git, GitHub, VS Code |
+| Currently Learning | React.js, Advanced JavaScript |
+| Next Goal | Node.js, Backend Development |
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+📧 **Email:** yashsoni07.1212@gmail.com
+
+🔗 **LinkedIn:** [Yash Soni](https://www.linkedin.com/in/yash-soni-487a9136b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+💻 **GitHub:** [Yashsoni07-gith](https://github.com/Yashsoni07-gith)
+
+🎯 **LeetCode:** [_yashsoni07_](https://leetcode.com/u/_yashsoni07_)
+
+🏆 **HackerRank:** [yashsoni07_1212](https://www.hackerrank.com/profile/yashsoni07_1212)
+
+</div>
+
+---
+
+# What's Next?
+
+- 🚀 Building projects with React
+- 📚 Mastering JavaScript concepts
+- 🔧 Learning backend technologies
+- 💼 Hunting for internship opportunities
+- 🌟 Contributing to open source
+
+---
+
+<div align="center">
+
+**Let's Connect! Open for frontend internships and collaboration opportunities.**
+
+⭐ If you find my work interesting, feel free to star my repositories!
+
+</div>
