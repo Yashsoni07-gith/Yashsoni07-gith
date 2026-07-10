@@ -1,14 +1,13 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yash%20Soni&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer;Web+Developer+in+Progress;JavaScript+Enthusiast;Learning+React+%26+Backend" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer+in+Progress;JavaScript+%26+React+Enthusiast;Hackathon+Participant;Building+Projects+to+Learn" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Looking%20for%20Internship-6D28D9?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-JavaScript%20%26%20React-4F46E5?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning%20-6D28D9?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-React%20%26%20JavaScript-4F46E5?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-7C3AED?style=for-the-badge)
 
 ![Location](https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge)
@@ -29,170 +28,131 @@
 
 ![](https://komarev.com/ghpvc/?username=Yashsoni07-gith&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/Yashsoni07-gith?style=for-the-badge&color=4F46E5)
-
-![](https://img.shields.io/github/stars/Yashsoni07-gith?style=for-the-badge&color=A855F7)
-
 </div>
 
 ---
 
-# About
+## About Me
 
-A passionate guy learning web dev right now. Focused on mastering frontend development with JavaScript and React, with plans to expand into backend technologies. Building projects to strengthen core web development skills and preparing for frontend developer internships.
+I'm a frontend developer enthusiast learning JavaScript and React. Currently focused on building projects and strengthening my web development fundamentals. I actively participate in hackathons and am passionate about creating responsive, user-friendly web interfaces.
 
-### Current Goals
-
-- Master JavaScript fundamentals & advanced concepts
-- Build production-ready React applications
-- Create responsive and accessible web interfaces
-- Learn backend technologies (Node.js, databases)
-- Land a frontend developer internship
-
-### Open To
-
-- Frontend Developer Internships
-- Web Development Collaborations
-- Open Source Contributions
-- Learning Opportunities
+**Currently:** Actively learning and building projects  
+**Goal:** Land a frontend developer internship and eventually become a full-stack developer
 
 ---
 
-# Tech Stack
+## 🎯 Current Focus
+
+- 🔥 **Mastering JavaScript** - ES6+, DOM manipulation, async programming
+- ⚛️ **Learning React.js** - Hooks, state management, component architecture
+- 🎨 **Responsive Design** - CSS3, Tailwind, mobile-first approach
+- 💡 **Problem Solving** - Building projects to apply concepts
+
+---
+
+## 💻 Tech Stack
 
 ### Languages
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
 </p>
 
-### Frontend
-
+### Frontend & Styling
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
 </p>
 
 ### Tools & Version Control
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+### Currently Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
+</p>
+
 ---
 
-# Certifications
+## 🏆 Hackathon Experience
+
+| Event | Type | Status |
+|-------|------|--------|
+| **5 Online Hackathons** | Remote | Participated & Learned |
+| **1 Offline Hackathon** | In-Person | Participated & Gained Experience |
+
+**What I Gained:**
+- Collaboration and teamwork experience
+- Building projects under time constraints
+- Learning new technologies quickly
+- Networking with developers
+
+---
+
+## 📜 Certifications
+
+- **Git & GitHub Fundamentals** - Simplilearn
+  - Version control concepts and workflows
+  - Collaborative development practices
+
+---
+
+## 📝 What I'm Building
+
+Currently working on small projects to strengthen my fundamentals. Planning to share them soon on GitHub.
+
+**Future Portfolio:** Building a portfolio website to showcase projects (coming soon!)
+
+---
+
+## 🎓 Learning Resources I Use
+
+- **YouTube:** Web development tutorials and project walkthroughs
+- **Online Courses:** Frontend development and JavaScript mastery
+- **Documentation:** React, JavaScript MDN, CSS resources
+- **Community:** Learning from hackathons and peer feedback
+
+---
+
+## 🔗 Connect With Me
 
 <div align="center">
 
-![Git & GitHub](https://img.shields.io/badge/Simplilearn-Git%20%26%20GitHub-FF6B6B?style=for-the-badge)
-
-</div>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://www.hackerrank.com/profile/yashsoni07_1212">
-<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://leetcode.com/u/_yashsoni07_">
-<img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</div>
-
----
-
-# Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| Hackathon Participant | Active in coding competitions |
-| Problem Solver | Regular practice on LeetCode & HackerRank |
-| Continuous Learner | Building skills in web development |
-| GitHub Contributor | Active in version control and coding |
-
-</div>
-
----
-
-# Current Learning Path
-
-```yaml
-Phase_1_Frontend_Mastery:
-  - JavaScript ES6+ Advanced Concepts
-  - React Fundamentals & Hooks
-  - State Management
-  - Responsive Design
-  - Component Architecture
-  
-Phase_2_Backend_Foundation:
-  - Node.js Basics
-  - Express.js Framework
-  - Databases (MongoDB/MySQL)
-  - API Development
-  
-Current_Focus:
-  - JavaScript Mastery
-  - React Learning
-  - Building Small Projects
-  
-Target:
-  - Frontend Developer Internship
-  - Full-Stack Developer (Long-term)
-```
-
----
-
-# Skills Summary
-
-| Category | Skills |
-|----------|--------|
-| Languages | JavaScript, HTML, CSS, C++ |
-| Frontend | HTML5, CSS3, Tailwind CSS, Bootstrap |
-| Tools | Git, GitHub, VS Code |
-| Currently Learning | React.js, Advanced JavaScript |
-| Next Goal | Node.js, Backend Development |
-
----
-
-# Connect With Me
-
-<div align="center">
-
-📧 **Email:** yashsoni07.1212@gmail.com
+📧 **Email:** [yashsoni07.1212@gmail.com](mailto:yashsoni07.1212@gmail.com)
 
 🔗 **LinkedIn:** [Yash Soni](https://www.linkedin.com/in/yash-soni-487a9136b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 💻 **GitHub:** [Yashsoni07-gith](https://github.com/Yashsoni07-gith)
 
-🎯 **LeetCode:** [_yashsoni07_](https://leetcode.com/u/_yashsoni07_)
-
-🏆 **HackerRank:** [yashsoni07_1212](https://www.hackerrank.com/profile/yashsoni07_1212)
-
 </div>
 
 ---
 
-# What's Next?
+## 🎯 What's Next?
 
-- 🚀 Building projects with React
-- 📚 Mastering JavaScript concepts
-- 🔧 Learning backend technologies
-- 💼 Hunting for internship opportunities
-- 🌟 Contributing to open source
+- 🛠️ Build and deploy 3-5 real projects
+- 📚 Complete React fundamentals
+- 🚀 Create a portfolio website
+- 💼 Apply for frontend developer internships
+- 🌟 Start contributing to open source projects
+
+---
+
+## 💡 Open To
+
+- **Frontend Developer Internships**
+- **Web Development Collaborations**
+- **Mentorship & Learning Opportunities**
+- **Project Partnerships**
 
 ---
 
 <div align="center">
 
-**Let's Connect! Open for frontend internships and collaboration opportunities.**
+**I'm actively learning and building. Let's connect and grow together! 🚀**
 
-⭐ If you find my work interesting, feel free to star my repositories!
+Feel free to reach out for opportunities, collaboration, or just to chat about web development.
+
+⭐ If you find my repositories useful, please star them!
 
 </div>
