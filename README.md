@@ -1,32 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Yash%20Soni&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B9D,50:00D9FF,100:FFD700&text=Yash%20Soni&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer+in+Progress;JavaScript+%26+React+Enthusiast;Hackathon+Participant;Building+Projects+to+Learn" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Actively%20Learning%20-6D28D9?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-React%20%26%20JavaScript-4F46E5?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-7C3AED?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Actively%20Learning%20-FF6B9D?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-React%20%26%20JavaScript-00D9FF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-FFD700?style=for-the-badge)
 
-![Location](https://img.shields.io/badge/Location-India-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-India-FF6B9D?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/yash-soni-487a9136b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:yashsoni07.1212@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Yashsoni07-gith">
-<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Yashsoni07-gith&style=for-the-badge&color=7C3AED)
+![](https://komarev.com/ghpvc/?username=Yashsoni07-gith&style=for-the-badge&color=00D9FF)
 
 </div>
 
