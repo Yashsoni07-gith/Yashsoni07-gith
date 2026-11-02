@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="background" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07140f,50:24453a,100:7fd1ae&text=Yash%20Soni&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Frontend%20Developer&descAlignY=60&descAlign=50&animation=twinkling" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7FD1AE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash+Soni;Frontend+Developer;JavaScript+%26+TypeScript+Enthusiast;Crafting+responsive+React+interfaces" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=7FD1AE&center=true&vCenter=true&width=800&lines=JavaScript+%26+TypeScript+Developer;Crafting+responsive+React+interfaces;Building+in+public" />
 
 <br/>
 
@@ -73,6 +71,6 @@ Let's connect and build something great together.
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7fd1ae,50:24453a,100:07140f" />
 
 </div>
