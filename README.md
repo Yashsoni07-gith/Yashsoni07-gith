@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="animated background" />
 
 <br/>
 
