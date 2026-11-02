@@ -1,26 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
-  <defs>
-    <pattern id="dots" width="8" height="8" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#8b949e"/>
-      <circle cx="6" cy="6" r="0.7" fill="#6e7681"/>
-    </pattern>
-    <pattern id="dotsFine" width="5" height="5" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="0.6" fill="#484f58"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0d1117" stop-opacity="1"/>
-      <stop offset="35%" stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="65%" stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
-    </linearGradient>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="260" fill="#0d1117"/>
-  <rect width="1200" height="260" fill="url(#dotsFine)" opacity="0.6"/>
-  <rect x="0" y="0" width="1200" height="260" fill="url(#dots)" opacity="0.55"/>
+<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="background" />
 
-  <rect x="300" y="40" width="600" height="180" fill="none" stroke="#8b949e" stroke-width="0.8" opacity="0.5"/>
-  <line x1="300" y1="40" x2="900" y2="40" stroke="#8b949e" stroke-width="0.8" opacity="0.4"/>
+<br/>
 
-  <rect width="1200" height="260" fill="url(#fade)"/>
-</svg>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=7FD1AE&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash+Soni;Frontend+Developer;JavaScript+%26+TypeScript+Enthusiast;Crafting+responsive+React+interfaces" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-07140f?style=for-the-badge&logo=linkedin&logoColor=7fd1ae&labelColor=07140f)](https://www.linkedin.com/in/yash-soni-487a9136b)
+[![Email](https://img.shields.io/badge/Email-contact-07140f?style=for-the-badge&logo=gmail&logoColor=7fd1ae&labelColor=07140f)](mailto:yashsoni07.1212@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-profile-07140f?style=for-the-badge&logo=github&logoColor=7fd1ae&labelColor=07140f)](https://github.com/Yashsoni07-gith)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 About Me
+
+</div>
+
+I'm a frontend developer who has completed **JavaScript** and **TypeScript** and is now building production-style interfaces with **React**. I focus on responsive, accessible, and clean UI, and I enjoy shipping under pressure at hackathons.
+
+**Currently:** building projects with TypeScript and React, and looking for a frontend developer internship.
+
+---
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
+
+<br/><br/>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 Hackathon Experience
+
+| Event | Format | Experience |
+|:--|:--|:--|
+| 5 Online Hackathons | Remote | Built projects under tight deadlines and learned new tools quickly |
+| 1 Offline Hackathon | In-person | Hands-on team collaboration and networking |
+
+<br/>
+
+### 📜 Certifications
+
+**Git & GitHub Fundamentals**, Simplilearn: version control workflows and collaborative development
+
+<br/>
+
+### 🤝 Open To
+
+Frontend developer internships · Web development collaborations · Open source contributions
+
+<br/>
+
+Let's connect and build something great together.
+
+⭐ If you find my repositories useful, a star is appreciated.
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="footer" />
+
+</div>
