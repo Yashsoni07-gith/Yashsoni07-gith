@@ -1,158 +1,134 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FF6B9D,50:00D9FF,100:FFD700&text=Yash%20Soni&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Yash%20Soni&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&stroke=FFD700&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Frontend+Developer+in+Progress;JavaScript+%26+React+Enthusiast;Hackathon+Participant;Building+Projects+to+Learn" />
-
-<br/>
-
-![Status](https://img.shields.io/badge/Status-Actively%20Learning%20-FF6B9D?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Learning-React%20%26%20JavaScript-00D9FF?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Frontend%20Development-FFD700?style=for-the-badge)
-
-![Location](https://img.shields.io/badge/Location-India-FF6B9D?style=for-the-badge)
-
-<a href="https://www.linkedin.com/in/yash-soni-487a9136b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yashsoni07.1212@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Yashsoni07-gith">
-<img src="https://img.shields.io/badge/GitHub-Profile-333333?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Frontend+Developer+in+the+making;JavaScript+%26+TypeScript+%E2%9C%85;Crafting+React+interfaces;Building+in+public+%F0%9F%9A%80" />
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Yashsoni07-gith&style=for-the-badge&color=00D9FF)
+![Status](https://img.shields.io/badge/status-actively%20building-302b63?style=flat-square&labelColor=0f0c29&color=FFD700)
+![JavaScript](https://img.shields.io/badge/JavaScript-completed-302b63?style=flat-square&logo=javascript&logoColor=FFD700&labelColor=0f0c29)
+![TypeScript](https://img.shields.io/badge/TypeScript-completed-302b63?style=flat-square&logo=typescript&logoColor=FFD700&labelColor=0f0c29)
+![React](https://img.shields.io/badge/learning-React-302b63?style=flat-square&logo=react&logoColor=FFD700&labelColor=0f0c29)
+![Location](https://img.shields.io/badge/based%20in-India-302b63?style=flat-square&labelColor=0f0c29&color=FFD700)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-302b63?style=flat-square&logo=linkedin&logoColor=FFD700&labelColor=0f0c29)](https://www.linkedin.com/in/yash-soni-487a9136b)
+[![Email](https://img.shields.io/badge/Email-contact-302b63?style=flat-square&logo=gmail&logoColor=FFD700&labelColor=0f0c29)](mailto:yashsoni07.1212@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-profile-302b63?style=flat-square&logo=github&logoColor=FFD700&labelColor=0f0c29)](https://github.com/Yashsoni07-gith)
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-I'm a frontend developer enthusiast learning JavaScript and React. Currently focused on building projects and strengthening my web development fundamentals. I actively participate in hackathons and am passionate about creating responsive, user-friendly web interfaces.
+### 🌌 About Me
 
-**Currently:** Actively learning and building projects  
-**Goal:** Land a frontend developer internship and eventually become a full-stack developer
+</div>
 
----
+I'm a frontend developer enthusiast who has mastered the core of **JavaScript** and **TypeScript**, and is now deepening my craft in **React**. I enjoy turning ideas into responsive, polished interfaces, and I thrive in hackathons where ideas have to ship fast.
 
-## 🎯 Current Focus
-
-- 🔥 **Mastering JavaScript** - ES6+, DOM manipulation, async programming
-- ⚛️ **Learning React.js** - Hooks, state management, component architecture
-- 🎨 **Responsive Design** - CSS3, Tailwind, mobile-first approach
-- 💡 **Problem Solving** - Building projects to apply concepts
+**Now:** building projects and sharpening fundamentals
+**Next:** a frontend internship, then full-stack
 
 ---
-
-## 💻 Tech Stack
-
-### Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,cpp" />
-</p>
-
-### Frontend & Styling
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
-</p>
-
-### Tools & Version Control
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Currently Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
-
----
-
-## 🏆 Hackathon Experience
-
-| Event | Type | Status |
-|-------|------|--------|
-| **5 Online Hackathons** | Remote | Participated & Learned |
-| **1 Offline Hackathon** | In-Person | Participated & Gained Experience |
-
-**What I Gained:**
-- Collaboration and teamwork experience
-- Building projects under time constraints
-- Learning new technologies quickly
-- Networking with developers
-
----
-
-## 📜 Certifications
-
-- **Git & GitHub Fundamentals** - Simplilearn
-  - Version control concepts and workflows
-  - Collaborative development practices
-
----
-
-## 📝 What I'm Building
-
-Currently working on small projects to strengthen my fundamentals. Planning to share them soon on GitHub.
-
-**Future Portfolio:** Building a portfolio website to showcase projects (coming soon!)
-
----
-
-## 🎓 Learning Resources I Use
-
-- **YouTube:** Web development tutorials and project walkthroughs
-- **Online Courses:** Frontend development and JavaScript mastery
-- **Documentation:** React, JavaScript MDN, CSS resources
-- **Community:** Learning from hackathons and peer feedback
-
----
-
-## 🔗 Connect With Me
 
 <div align="center">
 
-📧 **Email:** [yashsoni07.1212@gmail.com](mailto:yashsoni07.1212@gmail.com)
+### ⚡ Core Stack
 
-🔗 **LinkedIn:** [Yash Soni](https://www.linkedin.com/in/yash-soni-487a9136b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind&theme=dark" />
 
-💻 **GitHub:** [Yashsoni07-gith](https://github.com/Yashsoni07-gith)
+### 🛠️ Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode,bootstrap,nodejs&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 What's Next?
+<div align="center">
 
-- 🛠️ Build and deploy 3-5 real projects
-- 📚 Complete React fundamentals
-- 🚀 Create a portfolio website
-- 💼 Apply for frontend developer internships
-- 🌟 Start contributing to open source projects
+### 📊 GitHub Insights
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Yashsoni07-gith&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=00D9FF&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsoni07-gith&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" />
 
-## 💡 Open To
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashsoni07-gith&theme=midnight-purple&hide_border=true&background=0d1117&stroke=FFD700&ring=FFD700&fire=00D9FF&currStreakLabel=FFD700" />
 
-- **Frontend Developer Internships**
-- **Web Development Collaborations**
-- **Mentorship & Learning Opportunities**
-- **Project Partnerships**
+</div>
 
 ---
 
 <div align="center">
 
-**I'm actively learning and building. Let's connect and grow together! 🚀**
+### 🏆 Hackathon Journey
 
-Feel free to reach out for opportunities, collaboration, or just to chat about web development.
+| Event | Format | Outcome |
+|:--:|:--:|:--:|
+| **5 Online Hackathons** | Remote | Participated & learned |
+| **1 Offline Hackathon** | In-person | Hands-on team experience |
 
-⭐ If you find my repositories useful, please star them!
+</div>
+
+**What I took from them:** teamwork under pressure, shipping under tight deadlines, picking up new tech quickly, and meeting developers who push me to improve.
+
+---
+
+<div align="center">
+
+### 📜 Certifications
+
+**Git & GitHub Fundamentals**, Simplilearn
+*Version control workflows and collaborative development*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 Currently Focused On
+
+</div>
+
+- 🔷 **TypeScript in practice:** typed components, interfaces, generics
+- ⚛️ **React:** hooks, state management, component architecture
+- 🎨 **Responsive design:** CSS3, Tailwind, mobile-first layouts
+- 🧠 **Problem solving:** small projects that apply real concepts
+
+---
+
+<div align="center">
+
+### 🔭 Roadmap
+
+✦ Build and deploy 3–5 real-world projects
+✦ Master React fundamentals and patterns
+✦ Launch a portfolio website
+✦ Land a frontend developer internship
+✦ Contribute to open source
+
+</div>
+
+---
+
+<div align="center">
+
+### 💌 Open To
+
+Frontend internships · Web collaborations · Mentorship · Project partnerships
+
+---
+
+**Let's build something beautiful together.** ✨
+
+⭐ If you enjoy my repositories, a star means a lot!
+
+<br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29)
 
 </div>
