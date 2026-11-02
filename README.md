@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=Yash%20Soni&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descAlign=50&animation=fadeIn&stroke=FFD700&strokeWidth=1" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Frontend+Developer;JavaScript+%26+TypeScript;Crafting+responsive+React+interfaces;Building+in+public" />
+<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="animated background" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-302b63?style=flat-square&logo=linkedin&logoColor=FFD700&labelColor=0f0c29)](https://www.linkedin.com/in/yash-soni-487a9136b)
-[![Email](https://img.shields.io/badge/Email-contact-302b63?style=flat-square&logo=gmail&logoColor=FFD700&labelColor=0f0c29)](mailto:yashsoni07.1212@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-profile-302b63?style=flat-square&logo=github&logoColor=FFD700&labelColor=0f0c29)](https://github.com/Yashsoni07-gith)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash+Soni;Frontend+Developer;JavaScript+%26+TypeScript+Enthusiast;Crafting+responsive+React+interfaces" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-161b22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117)](https://www.linkedin.com/in/yash-soni-487a9136b)
+[![Email](https://img.shields.io/badge/Email-contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:yashsoni07.1212@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-profile-161b22?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117)](https://github.com/Yashsoni07-gith)
 
 </div>
 
 ---
 
-### About Me
+<div align="center">
+
+### 🚀 About Me
+
+</div>
 
 I'm a frontend developer who has completed **JavaScript** and **TypeScript** and is now building production-style interfaces with **React**. I focus on responsive, accessible, and clean UI, and I enjoy shipping under pressure at hackathons.
 
@@ -22,49 +28,44 @@ I'm a frontend developer who has completed **JavaScript** and **TypeScript** and
 
 ---
 
-### Tech Stack
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap&theme=dark" />
-</p>
+### 💻 Languages & Frameworks
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,git,github,vscode&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&theme=dark" />
 
----
+<br/><br/>
 
-### GitHub Insights
+### 🛠️ Tools
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashsoni07-gith&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashsoni07-gith&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</div>
 
 ---
 
-### Hackathon Experience
+<div align="center">
+
+### 🏆 Hackathon Experience
 
 | Event | Format | Experience |
 |:--|:--|:--|
 | 5 Online Hackathons | Remote | Built projects under tight deadlines and learned new tools quickly |
 | 1 Offline Hackathon | In-person | Hands-on team collaboration and networking |
 
----
+<br/>
 
-### Certifications
+### 📜 Certifications
 
-- **Git & GitHub Fundamentals**, Simplilearn: version control workflows and collaborative development
+**Git & GitHub Fundamentals**, Simplilearn: version control workflows and collaborative development
 
----
+<br/>
 
-### Open To
+### 🤝 Open To
 
 Frontend developer internships · Web development collaborations · Open source contributions
 
----
-
-<div align="center">
+<br/>
 
 Let's connect and build something great together.
 
@@ -72,6 +73,6 @@ Let's connect and build something great together.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29" />
+<img src="https://raw.githubusercontent.com/Yashsoni07-gith/Yashsoni07-gith/main/assets/background.svg" width="100%" alt="animated footer" />
 
 </div>
