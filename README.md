@@ -6,6 +6,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-07140f?style=for-the-badge&logo=googlechrome&logoColor=7fd1ae&labelColor=07140f)](https://yashsoni07-gith.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-07140f?style=for-the-badge&logo=linkedin&logoColor=7fd1ae&labelColor=07140f)](https://www.linkedin.com/in/yash-soni-487a9136b)
 [![Email](https://img.shields.io/badge/Email-contact-07140f?style=for-the-badge&logo=gmail&logoColor=7fd1ae&labelColor=07140f)](mailto:yashsoni07.1212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-profile-07140f?style=for-the-badge&logo=github&logoColor=7fd1ae&labelColor=07140f)](https://github.com/Yashsoni07-gith)
@@ -22,7 +23,7 @@
 
 I'm a frontend developer who has completed **JavaScript** and **TypeScript** and is now building production-style interfaces with **React**. I focus on responsive, accessible, and clean UI, and I enjoy shipping under pressure at hackathons.
 
-**Currently:** building projects with TypeScript and React, and looking for a frontend developer internship.
+**Currently:** building projects with TypeScript and React, and looking for a frontend developer internship. See my portfolio at [yashsoni07-gith.github.io/Portfolio](https://yashsoni07-gith.github.io/Portfolio/).
 
 ---
 
@@ -62,6 +63,8 @@ I'm a frontend developer who has completed **JavaScript** and **TypeScript** and
 ### 🤝 Open To
 
 Frontend developer internships · Web development collaborations · Open source contributions
+
+<p>🌐 <a href="https://yashsoni07-gith.github.io/Portfolio/"><b>View my portfolio website</b></a></p>
 
 <br/>
 
